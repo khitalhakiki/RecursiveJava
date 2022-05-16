@@ -1,4 +1,4 @@
-# RekursifJava
+# Recursive Java
 Rekursive Java With Output Main Class
 #
 <p align="center">
